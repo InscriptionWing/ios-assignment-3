@@ -4,10 +4,10 @@
 
 ## The link for github repository : https://github.com/InscriptionWing/ios-assignment-3  
   
-## Contributors of this project:   
-| Student Name | Studnet id |
-/ ---- / ----  /
-| Jiajie Lin | 13479201 |
-| Sunlin Weng | 13662592 |
-| Junting Song | 13833936 |
-|Zizheng Xu | 13643539 |
+## Contributors of this project:
+Student Name   Studnet id   
+  
+Jiajie Lin     13479201 
+Sunlin Weng    13662592  
+Junting Song   13833936   
+Zizheng Xu     13643539   
