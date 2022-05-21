@@ -5,9 +5,9 @@ Also, in Login page, we can login user account and administrator account. <br> T
 The link for github repository : https://github.com/InscriptionWing/ios-assignment-3   
   
 #### Contributors of this project:
-Student Name   Studnet id   
+Student Name : Studnet id   
   
-Jiajie Lin     13479201  
-Sunlin Weng    13662592  
-Junting Song   13833936   
-Zizheng Xu     13643539   
+Jiajie Lin   :  13479201  
+Sunlin Weng  :  13662592  
+Junting Song :  13833936   
+Zizheng Xu   :  13643539   
